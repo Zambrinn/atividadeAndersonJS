@@ -5,5 +5,5 @@ function openDialog() {
 }
 
 function closeDialog() {
-    dialog.classList.remove('.active');
+    dialog.classList.remove("active")
 }
